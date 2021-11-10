@@ -1,7 +1,7 @@
 **About me:**
 - 👋 Hi, I am @StilauGamer
 - 👀 I am interested in coding, games, movies, building computers and a lot more!
-- 🌱 I am currently learning C#. I really like it and hope I get better at it!
+- 🌱 I am currently learning Python. I really like it and hope I get better at it!
 - 📫 You can reach me through discord, email, steam, etc.
 
 **You can find me here:**
