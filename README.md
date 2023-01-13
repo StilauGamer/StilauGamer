@@ -34,7 +34,7 @@
 - Phone: Samsung Galaxy S21
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StilauGamer&count_private=true&show_icons=true&theme=gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StilauGamer&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
 
 
 <!---
