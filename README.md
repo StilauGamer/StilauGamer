@@ -1,7 +1,8 @@
 **About me:**
 - 👋 Hi, I am @StilauGamer
 - 👀 I am interested in coding, games, movies, building computers and a lot more!
-- 🌱 I am currently learning Python. I really like it and hope I get better at it!
+- 🌱 I am currently learning tons of new languages at the same time!
+- 🖥️ I mostly work on projects like TigerstadenRP or NorthwichRP as a developer!
 - 📫 You can reach me through discord, email, steam, etc.
 
 **You can find me here:**
