@@ -21,13 +21,15 @@
 - SSD #2: Crucial MX500 250GB 2.5" SSD
 - HDD #1: Seagate Barracuda 1TB 3.5" HDD
 - HDD #2: Seagate Barracuda 2TB 3.5" HDD
-- Power Supply: Cooler Master 600W, Bronze
+- Power Supply: ASUS ROG Strix, 850W Gold
 - Case: Corsair 275R Airflow Mid Tower Black
 
 **Computer peripherals:**
-- Keyboard: Razer Blackwidow Elite, Green Switches
+- Keyboard: Logitech G Pro, Brown Switches
 - Mouse: Logitech G Pro X Wireless
 - Headset: Logitech G Pro X Wireless
+- Microphone: Shure MV7, Podcast Microphone
+- Microphone Stand: Blue Compass Studioarm
 - Mousepad: Razer Goliathus
 - Camera: Trust Vero Full HD 1080p
 - VR Headset: HTC Vive V2
