@@ -34,6 +34,7 @@
 - Mousepad: Razer Goliathus
 - Camera: Trust Vero Full HD 1080p
 - VR Headset: HTC Vive V2
+- Laptop: HP ZBook Power G9 Mobile Workstation
 - Phone: Samsung Galaxy S21
 
 
