@@ -14,7 +14,7 @@
 - 👉 Website: https://StilauGamer.com ( Under Development )
 
 **Computer Specs:**
-- Processor: Ryzen 5 5600X, 6 Cores 4.6Ghz
+- Processor: AMD Ryzen 5 5600X, 6 Cores 4.6Ghz
 - Graphics Card: ASUS TUF Gaming RTX 3060 OC, 12 GB GDDR6
 - Motherboard: ASUS Rog Strix B450-F Gaming, AM4 Socket
 - Ram: 2x 16GB G.Skill TridentZ RGB DDR4 3200 MHZ 
