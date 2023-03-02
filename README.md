@@ -2,7 +2,7 @@
 - 👋 Hi, I am @StilauGamer
 - 👀 I am interested in coding, games, movies, building computers and a lot more!
 - 🌱 I am currently learning tons of new languages at the same time!
-- 🖥️ I mostly work on projects like TigerstadenRP or NorthwichRP as a developer!
+- 🖥️ I mostly work on projects like TigerstadenRP and NorthwichRP as a developer!
 - 📫 You can reach me through discord, email, steam, etc.
 
 **You can find me here:**
@@ -39,9 +39,3 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StilauGamer&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
-
-
-<!---
-StilauGamer/StilauGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
