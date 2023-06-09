@@ -25,12 +25,13 @@
 - Power Supply: ASUS ROG Strix, 850W Gold
 - Case: Corsair 275R Airflow Mid Tower Black
 
-**Computer peripherals:**
+**Computer Peripherals:**
 - Keyboard: Logitech G Pro, Brown Switches
 - Mouse: Logitech G Pro X Wireless
-- Headset: Logitech G Pro X Wireless
+- Headset: Beyerdynamic DT 990 Pro, 250 ohm
 - Microphone: Shure MV7, Podcast Microphone
 - Microphone Stand: Blue Compass Studioarm
+- Audio Mixer: TC-Helicon GoXLR
 - Mousepad: Razer Goliathus
 - Camera: Trust Vero Full HD 1080p
 - VR Headset: HTC Vive V2
