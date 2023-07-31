@@ -6,7 +6,7 @@
 - 📫 You can reach me through discord, email, steam, etc.
 
 **You can find me here:**
-- 👉 Discord: StilauGamer#9999
+- 👉 Discord: StilauGamer
 - 👉 Steam: StilauGamer
 - 👉 Epic Games: StilongsGamer
 - 👉 Roblox: StilauGamer
