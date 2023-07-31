@@ -36,7 +36,7 @@
 - Camera: Trust Vero Full HD 1080p
 - VR Headset: HTC Vive V2
 - Laptop: HP ZBook Power G9 Mobile Workstation
-- Phone: Samsung Galaxy S21
+- Phone: Samsung Galaxy S23
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StilauGamer&count_private=true&show_icons=true&include_all_commits=true&theme=gruvbox)
