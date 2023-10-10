@@ -17,9 +17,10 @@
 - Processor: AMD Ryzen 5 5600X, 6 Cores 4.6Ghz
 - Graphics Card: ASUS TUF Gaming RTX 3060 OC, 12 GB GDDR6
 - Motherboard: ASUS Rog Strix B450-F Gaming, AM4 Socket
-- Ram: 2x 16GB G.Skill TridentZ RGB DDR4 3200 MHZ 
-- SSD #1: Kingston A2000 500GB NVMe M.2 SSD
-- SSD #2: Crucial MX500 250GB 2.5" SSD
+- Ram: 2x 16GB G.Skill TridentZ RGB DDR4 3200 MHZ
+- SSD #1: Kingston KC3000 2000GB NVMe M.2 SSD
+- SSD #2: Kingston A2000 500GB NVMe M.2 SSD
+- SSD #3: Crucial MX500 250GB 2.5" SSD
 - HDD #1: Seagate Barracuda 1TB 3.5" HDD
 - HDD #2: Seagate Barracuda 2TB 3.5" HDD
 - Power Supply: ASUS ROG Strix, 850W Gold
