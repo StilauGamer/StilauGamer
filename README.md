@@ -3,7 +3,7 @@
 I am a **software developer** with a strong background in **full-stack development, server administration, and DevOps**. Passionate about building **scalable systems, secure infrastructures, and optimized workflows**, I specialize in:
 - **Backend Engineering –** Crafting high-performance APIs and automation tools.
 - **Server & Infrastructure Management –** Deploying and optimizing cloud & on-prem solutions.
-- **Database Management –** Expertise in PostgreSQL, MariaDB, and TimescaleDB.
+- **Database Management –** Expertise in PostgreSQL and MariaDB.
 - **Game & Web Development –** Designing efficient game server architectures and dynamic web applications.
 
 I thrive on solving complex problems and **building reliable, scalable systems**—whether for **enterprise applications, gaming communities, or cloud-based solutions.**
@@ -21,7 +21,7 @@ I thrive on solving complex problems and **building reliable, scalable systems**
 Programming Languages & Frameworks
 - **Backend:** C#, .NET, Python, Node.js
 - **Frontend:** React.js, Next.js, TypeScript
-- **Databases:** PostgreSQL, MariaDB, TimescaleDB
+- **Databases:** PostgreSQL, MariaDB
 - **Infrastructure:** Docker, Nginx, Traefik
 - **Cloud & DevOps:** Cloudflare, AWS, Google Cloud, CI/CD Pipelines
 
