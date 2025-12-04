@@ -14,7 +14,7 @@ I thrive on solving complex problems and **building reliable, scalable systems**
 - **💼 LinkedIn:** [Stian Lauvdal](https://www.linkedin.com/in/stian-lauvdal/)
 - **🎧 Discord:** StilauGamer
 - **🎮 Steam:** StilauGamer
-- **📧 Email:** (Available upon request)
+- **📧 Email:** Stian@Stilau.dev
 
 
 ## ⚙️ Tech Stack & Expertise
